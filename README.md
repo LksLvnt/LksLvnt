@@ -45,8 +45,8 @@ Interactive Three.js 3D café scene built with Vite, TypeScript, and GSAP, where
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LksLvnt&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LksLvnt&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://statsforge.ballabotond.com/card?username=LksLvnt&theme=dark" alt="GitHub Stats" />
+  <img src="https://streakforge.ballabotond.com/card/LksLvnt?tz=Europe/Budapest" alt="GitHub Streak" width="200" height="200" />
 </p>
 
 ## Contact
