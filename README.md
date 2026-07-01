@@ -1,8 +1,7 @@
 # Hi, I'm Levente
 
-Software developer and third-year Programming Informatics student at PTE TTK (Pécs, Hungary). I build full-stack projects end to end, from database design to CI/CD deployment, and I'm currently working as a freelance Angular developer on a live municipal web platform.
+Software developer and third-year Programming Informatics student at PTE TTK (Pécs, Hungary). I build full-stack projects end to end, from database design to CI/CD deployment.
 
-- Working through thesis topic selection (P2P chat / distributed consensus / storage engine)
 - Building **coffee-portfolio**, an interactive Three.js 3D café experience where espresso prep steps map to portfolio sections
 - Always down to talk about espresso setups and skateboarding
 
